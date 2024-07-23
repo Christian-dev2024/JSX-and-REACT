@@ -1,0 +1,13 @@
+.container {
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+    justify-content: center;
+    padding: 1rem;
+    color: #fff;
+    background-color: gold;
+    margin-inline: 100px;
+    margin-top: 50px;
+    box-shadow: 2px 2px 4px 1px rgb(103, 87, 0);
+}
